@@ -3,7 +3,7 @@
 This repository contains the source code for Focus, a productivity-boosting website built with Next.js.
 The README.md file provides an overview of the project and instructions on how to set it up and customize it for your own use.
 
-![Demo](https://github.com/anassalama/focus/blob/master/public/demo.png)
+![Demo](https://github.com/anassalama/focus-app/blob/main/public/demo.png)
 
 ## Table of Contents
 

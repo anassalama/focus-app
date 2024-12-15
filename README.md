@@ -98,7 +98,7 @@ These meta tags are included to improve search engine visibility and provide a c
 
 ## Deployment
 
-The website is live and accessible at https://focus.vercel.app/.
+The website is live and accessible at https://focus-chi-dun.vercel.app/.
 
 You can view and manage the deployment settings on Vercel Dashboard.
 
